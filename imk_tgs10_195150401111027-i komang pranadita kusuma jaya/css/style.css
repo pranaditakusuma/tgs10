@@ -1,0 +1,45 @@
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 30%;
+}
+
+.beranda{
+    background-color: #A7FF83;
+
+}
+
+.firstPage{
+    background-color:#086972 ;
+}
+
+.hubungiSaya{
+    background-color:#17B978;
+}
+
+h1{
+    color: white;
+    font-family: Lucida Sans;
+
+
+}
+
+h3{
+    color: purple;
+    font-family: sans-serif;
+}
+
+h5{
+    color: gold;
+    font-family: Verdana;
+}
+
+#name{
+    color: chocolate;
+    font-family: Georgia;
+}
+
+p{
+    color: burlywood;
+    font-family: Arial;
+}
